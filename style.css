@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#map{
+    height: 50vh;
+    width: 99vw;
+    background: black;
+
+}
